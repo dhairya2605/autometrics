@@ -1,0 +1,1 @@
+Product teams at a used-car retailer repeatedly ask analysts the same kinds of metric questions (sell-through, days to sell, price drop). AutoMetrics turns that repeated work into a tool anyone can use, and measures its own correctness against an answer key.
